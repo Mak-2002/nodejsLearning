@@ -1,0 +1,24 @@
+{
+  "name": "main_package",
+  "version": "1.0.0",
+  "description": "main package of the site",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mak-2002/nodejsLearning.git"
+  },
+  "author": "Qusai Nasr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mak-2002/nodejsLearning/issues"
+  },
+  "homepage": "https://github.com/Mak-2002/nodejsLearning#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
